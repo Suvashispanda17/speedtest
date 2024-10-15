@@ -1,1 +1,2 @@
-# speedtest
+#Speed Test Application
+I developed a Python-based Speed Test application using the speedtest-cli library. This application allows users to measure their internet connection's download and upload speeds, as well as ping times to the server. By entering a simple command, users can receive results in megabits per second (Mbps), providing an easy-to-understand representation of their internet performance. This project enhances my programming skills and deepens my understanding of networking concepts.
